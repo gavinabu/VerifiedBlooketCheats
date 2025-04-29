@@ -33,6 +33,6 @@ PROOF ![image](https://github.com/user-attachments/assets/be97d6c2-d9ce-4aeb-adc
 ### **The following cheats are NOT a virus.**
 
 [Swagger's GUI](https://github.com/KindleKid/Blooket-Cheat-GUI-aka-Swaggers-GUI) (obfuscated, private issues)   Last checked. April 28 (commit cad8b8b, latest commit was just for the readme so I ignored it)\
-[TienD2012's Creats](https://github.com/TienD2012/hack-Blooket/issues/1) (obfuscated)   Last checked. April 28 (commit f031319), I am not sure if these are the originals since they were very recently uploaded.
+[TienD2012's Cheats](https://github.com/TienD2012/hack-Blooket/issues/1) (obfuscated)   Last checked. April 28 (commit f031319), I am not sure if these are the originals since they were very recently uploaded.
 
 
